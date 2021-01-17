@@ -1,0 +1,23 @@
+{
+  "name": "intern-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.9",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-formidable": "^1.2.0",
+    "multer": "^1.4.2",
+    "node-popup": "^0.1.14",
+    "nodemailer": "^6.4.17",
+    "nodemon": "^2.0.6",
+    "popups": "^1.1.3"
+  }
+}
